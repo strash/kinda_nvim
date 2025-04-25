@@ -11,10 +11,10 @@ A beautiful, dark and light Neovim colorscheme inspired by the default Neovim co
 ## Screenshots
 
 ### Dark Theme
-<img width="600" alt="Dark Theme" src="https://github.com/user-attachments/assets/d503fc92-bdfc-49c5-bc7e-16b606d14f9c" />
+<img width="800" alt="Dark Theme" src="https://github.com/user-attachments/assets/d503fc92-bdfc-49c5-bc7e-16b606d14f9c" />
 
 ### Light Theme
-<img width="600" alt="Light Theme" src="https://github.com/user-attachments/assets/b81d8af8-2a51-4728-9b80-5bfbe7044cb2" />
+<img width="800" alt="Light Theme" src="https://github.com/user-attachments/assets/b81d8af8-2a51-4728-9b80-5bfbe7044cb2" />
 
 ## Supported Plugins
 
@@ -61,5 +61,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-Distributed under the MIT License. See `[LICENSE][https://github.com/strash/kinda_nvim/blob/main/LICENSE]` for more information.
+Distributed under the MIT License. See `[LICENSE](https://github.com/strash/kinda_nvim/blob/main/LICENSE)` for more information.
 
