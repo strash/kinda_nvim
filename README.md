@@ -24,9 +24,7 @@ A beautiful, dark and light Neovim colorscheme inspired by the default Neovim co
 
 ## Installation
 
-### Using a Plugin Manager
-
-#### lazy.nvim
+### lazy.nvim
 ```lua
 {
   "strash/kinda_nvim",
@@ -38,12 +36,12 @@ A beautiful, dark and light Neovim colorscheme inspired by the default Neovim co
 }
 ```
 
-#### packer.nvim
+### packer.nvim
 ```lua
 use {
   "strash/kinda_nvim",
   config = function()
-    vim.cmd("colorscheme kinda-nvim")
+    vim.cmd("colorscheme kinda_nvim")
   end
 }
 ```
