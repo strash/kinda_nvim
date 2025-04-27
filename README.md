@@ -1,5 +1,8 @@
 # Kinda nvim
 
+> [!NOTE]
+> The Helix versions of the `kinda_nvim` and `kinda_nvim_light` themes have been merged into Helix and will be available in the next release after 25.01. See [PR #13406](https://github.com/helix-editor/helix/pull/13406) and the Helix repository at [strash/kinda_nvim.hx](https://github.com/strash/kinda_nvim.hx).
+
 A beautiful, dark and light Neovim colorscheme inspired by the default Neovim colorscheme, with enhanced support for LSP and Tree-sitter.
 
 **Features:**
